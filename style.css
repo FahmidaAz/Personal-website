@@ -141,3 +141,10 @@ h1{
     font-family:'M PLUS Rounded 1c', sans-serif ;
 
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    height: 200px;
+}
